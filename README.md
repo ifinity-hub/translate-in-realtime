@@ -1,5 +1,5 @@
-# translate-in-realtime
-Translate Text in Realtime on frontend. Helpful if some of the words are not getting translated after changing the language.
+# translate-in-realtime-plugin-wordpress
+Translate Text in Realtime on frontend for Wordpress websites. Helpful if some of the words are not getting translated after changing the language.
 
 Contributors: Unsia Syed
 Donate link: http://ifinityhub.com
