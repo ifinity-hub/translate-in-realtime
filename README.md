@@ -1,7 +1,7 @@
 # translate-in-realtime-plugin-wordpress
 Translate Text in Realtime on frontend for Wordpress websites. Helpful if some of the words are not getting translated after changing the language.
 
-Contributors: Unsia Syed
+Contributors: Waqar Hassan
 Donate link: http://ifinityhub.com
 Tags: replace, search, find and replace, search and replace, on demand replace
 Requires at least: 5.0
