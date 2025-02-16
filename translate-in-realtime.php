@@ -4,7 +4,7 @@ Plugin Name: Translate In Realtime Pro
 Version: 1.0
 Plugin URI: http://ifinityhub.com
 Description: Translate Text in Realtime on frontend. Helpful if some of the words are not getting translated after changing the language. 
-Author: Unsia Syed
+Author: Waqar Hassan
 Author URI: http://ifinityhub.com
 License: GPLv2 or later
 Text Domain: translate-in-realtime
